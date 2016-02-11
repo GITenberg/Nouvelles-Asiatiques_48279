@@ -1,0 +1,29 @@
+_repo: Nouvelles-Asiatiques_48279
+creator:
+  author:
+    agent_name: Gobineau, Arthur, comte de
+    aliases:
+    - Gobineau, A. de (Arthur)
+    - De Gobineau, Arthur, comte
+    - Gobineau, Joseph Arthur, comte de
+    - Gobineau, comte de
+    - Gobineau, Joseph Arthur (Comte) de
+    birthdate: 1816
+    deathdate: 1882
+    gutenberg_agent_id: '38659'
+    url: http://www.gutenberg.org/2009/agents/38659
+description: ''
+gutenberg_bookshelf: FR Nouvelles
+gutenberg_issued: '2015-02-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '48279'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Middle East -- Fiction'
+- !lcc 'PQ'
+title: Nouvelles Asiatiques
+url: http://www.gutenberg.org/ebooks/48279
