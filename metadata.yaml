@@ -1,4 +1,8 @@
 _repo: Nouvelles-Asiatiques_48279
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48279-h/images/cover.png
 creator:
   author:
     agent_name: Gobineau, Arthur, comte de
@@ -13,6 +17,8 @@ creator:
     gutenberg_agent_id: '38659'
     url: http://www.gutenberg.org/2009/agents/38659
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48279#Nouvelles-Asiatiques
 gutenberg_bookshelf: FR Nouvelles
 gutenberg_issued: '2015-02-16'
 gutenberg_type: Text
